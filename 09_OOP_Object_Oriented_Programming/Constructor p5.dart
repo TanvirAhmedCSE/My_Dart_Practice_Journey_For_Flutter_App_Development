@@ -14,4 +14,5 @@ class Student{
     else if(marks>=60) print("Grade is B");
     else print("Grade is C");
   }
+
 }
